@@ -4,7 +4,7 @@
 
 This project implements an efficient way of sorting roughly cylindrical partial point clouds for the purposes of approximating volume. After sorting a data set, it becomes easy to separate it into several very small segments, each of which's volumes can be approximated and summed to approximate the whole.
 
-You can read more about this project [here] (/written-materials/ResearchProject_Thesis_Final.pdf).
+You can read more about this project [here](written-materials/ResearchProject_Thesis_Final.pdf).
 
 ## Versioning
 
@@ -16,7 +16,7 @@ You can read more about this project [here] (/written-materials/ResearchProject_
 
 ## Resources
 
-**/lib/:** Contains the external library files for the project. Specifically, jPLY was used for this project to interact with the PLY files stored under **/plys/\*:**.
+**/lib/:** Contains the external library files for the project. Specifically, jPLY was used for this project to interact with the PLY files stored under **/plys/**.
 
 **/plys/:** Contains all partial point clouds, stored in PLY format.
 
